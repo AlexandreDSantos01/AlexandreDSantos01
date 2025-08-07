@@ -18,8 +18,11 @@ Sou um desenvolvedor FullStack júnior, apaixonado por tecnologia e sempre em bu
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="aspnet" src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img align="center" alt="aspnet" src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="aspnetmvc" src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="aspnetforms" src="https://img.shields.io/badge/ASP.NET%20Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+
 </div><br/>
 
 
