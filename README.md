@@ -22,6 +22,9 @@ Sou um desenvolvedor FullStack júnior, apaixonado por tecnologia e sempre em bu
   <img align="center" alt="aspnet" src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="aspnetmvc" src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="aspnetforms" src="https://img.shields.io/badge/ASP.NET%20Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="sketchup" src="https://img.shields.io/badge/SketchUp-DA251D?style=for-the-badge&logo=sketchup&logoColor=white" />
+  <img align="center" alt="lumion" src="https://img.shields.io/badge/Lumion-0A4972?style=for-the-badge&logoColor=white" />
+
 
 </div><br/>
 
